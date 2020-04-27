@@ -107,7 +107,7 @@ export default function ObjectDetectorScreen({ route, navigation }) {
                             }
                         } >
                         <View>
-                            <Text style={{fontSize:20, paddingBottom: 15}}>the detected obeject is almost definitely a(n) {item} (we're {accuracy} sure)</Text>
+                            <Text style={{fontSize:20, paddingBottom: 15}}>the detected object is almost definitely a(n) {item} (we're {accuracy} sure)</Text>
                             <Text style={{fontSize:22, paddingBottom: 15}}>translated: {translatedItem}</Text>
                         </View>
                         <View style={{alignItems: 'center'}} >
