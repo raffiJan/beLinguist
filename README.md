@@ -1,8 +1,8 @@
 # beLinguist
-beLinguist is an object &amp; text detection + translation React Native mobile app, utilizing Google's Cloud API
+beLinguist is an object &amp; text detection + translation React Native mobile app, utilizing Google's Cloud Vision API
 
 ## getting started
-1. change the 'credential.js' file and add your Google Cloud API key
+1. change the 'credential.js' file and add your Google Cloud Vision API key
 2. download node.js 
 3. download expo app on your phone
 4. in your console, in the project directory, type 'npm install', then 'npm install expo-cli', then 'expo start'
